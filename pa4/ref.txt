@@ -1,0 +1,80 @@
+Zombie 1 has appeared.
+Zombie 2 has appeared.
+Zombie 3 has appeared.
+Zombie 4 has appeared.
+Zombie 5 has appeared.
+Zombie 6 has appeared.
+Zombie 7 has appeared.
+Zombie 8 has appeared.
+Zombie 9 has appeared.
+You have shot and killed Zombie 3.
+You have shot and killed Zombie 6.
+You have shot and killed Zombie 9.
+You have shot and killed Zombie 2.
+You have shot and killed Zombie 5.
+You have shot and killed Zombie 8.
+You have shot and killed Zombie 1.
+You have shot and killed Zombie 4.
+You have shot and killed Zombie 7.
+Zombie 0 has appeared.
+Zombie 3 has appeared.
+Zombie 6 has appeared.
+Zombie 9 has appeared.
+Zombie 2 has appeared.
+Zombie 5 has appeared.
+Zombie 8 has appeared.
+Zombie 1 has appeared.
+Zombie 4 has appeared.
+You have shot and killed Zombie 0.
+Zombie 7 has appeared.
+You have shot and killed Zombie 3.
+Zombie 0 has appeared.
+You have shot and killed Zombie 6.
+Zombie 3 has appeared.
+You have shot and killed Zombie 9.
+Zombie 6 has appeared.
+You have shot and killed Zombie 2.
+Zombie 9 has appeared.
+You have shot and killed Zombie 5.
+Zombie 2 has appeared.
+You have shot and killed Zombie 8.
+Zombie 5 has appeared.
+You have shot and killed Zombie 1.
+Zombie 8 has appeared.
+You have shot and killed Zombie 4.
+Zombie 1 has appeared.
+You have shot and killed Zombie 7.
+Zombie 4 has appeared.
+You have shot and killed Zombie 0.
+Zombie 7 has appeared.
+You have shot and killed Zombie 3.
+Zombie 0 has appeared.
+You have shot and killed Zombie 6.
+Zombie 3 has appeared.
+You have shot and killed Zombie 9.
+Zombie 6 has appeared.
+You have shot and killed Zombie 2.
+Zombie 9 has appeared.
+You have shot and killed Zombie 5.
+Zombie 2 has appeared.
+You have shot and killed Zombie 8.
+Zombie 5 has appeared.
+You have shot and killed Zombie 1.
+Zombie 8 has appeared.
+You have shot and killed Zombie 4.
+Zombie 1 has appeared.
+You have shot and killed Zombie 7.
+Zombie 4 has appeared.
+You have shot and killed Zombie 0.
+Zombie 7 has appeared.
+You have shot and killed Zombie 3.
+Zombie 0 has appeared.
+You have shot and killed Zombie 6.
+You have shot and killed Zombie 9.
+You have shot and killed Zombie 2.
+You have shot and killed Zombie 5.
+You have shot and killed Zombie 8.
+You have shot and killed Zombie 1.
+You have shot and killed Zombie 4.
+You have shot and killed Zombie 7.
+You have shot and killed Zombie 0.
